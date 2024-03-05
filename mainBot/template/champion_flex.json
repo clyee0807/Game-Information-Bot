@@ -1,0 +1,173 @@
+{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_0.jpg",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover",
+      "action": {
+        "type": "uri",
+        "uri": "http://linecorp.com/"
+      }
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "吉茵珂絲",
+                  "weight": "bold",
+                  "size": "xl",
+                  "margin": "none",
+                  "flex": 2
+                },
+                {
+                  "type": "text",
+                  "text": "爆走重砲",
+                  "gravity": "bottom",
+                  "style": "normal",
+                  "weight": "bold",
+                  "margin": "none",
+                  "offsetStart": "none",
+                  "offsetEnd": "none",
+                  "size": "sm",
+                  "color": "#6C6C6C"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "射手",
+              "flex": 1,
+              "size": "md",
+              "gravity": "top",
+              "weight": "bold",
+              "color": "#AAAAAA",
+              "align": "end"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "md",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "來自佐恩的吉茵珂絲是一名衝動的瘋狂罪犯，以肆意破壞為樂，絲毫不顧後果。她使用各式危險武器，來製造響徹雲霄、火光沖天的大爆炸，留下混亂的景象與恐慌的人群。吉茵珂絲最無法忍受無聊，所以不管去到哪裡，總是會歡欣鼓舞地帶來她招牌的人間煉獄。",
+                  "wrap": true,
+                  "size": "sm",
+                  "margin": "none",
+                  "offsetTop": "none",
+                  "offsetBottom": "md"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "生命",
+                  "color": "#aaaaaa",
+                  "size": "sm",
+                  "flex": 2
+                },
+                {
+                  "type": "text",
+                  "text": "581.0",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "魔力",
+                  "color": "#aaaaaa",
+                  "size": "sm",
+                  "flex": 2
+                },
+                {
+                  "type": "text",
+                  "text": "222",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "移動速度",
+                  "color": "#aaaaaa",
+                  "size": "sm",
+                  "flex": 2
+                },
+                {
+                  "type": "text",
+                  "text": "333",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "物理攻擊",
+                  "color": "#aaaaaa",
+                  "size": "sm",
+                  "flex": 2
+                },
+                {
+                  "type": "text",
+                  "text": "44.0",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm",
+                  "flex": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
