@@ -166,3 +166,6 @@ log.json
 img/
 champion.json
 data.json
+
+# jupyter notebook
+test.ipynb
