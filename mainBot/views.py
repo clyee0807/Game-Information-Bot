@@ -23,7 +23,6 @@ from mainBot.template.gameCarousel import createGameCarousel
 
 image_folder = 'static'
 domain = '285a-114-37-4-118.ngrok-free.app'
-OPENAI_API_KEY = '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'
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__)) # D:\CLY\CLYEE\projects\linebot_test\mainBot
 
